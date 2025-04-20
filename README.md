@@ -2,7 +2,7 @@
   <a href="https://github.com/trimstray/the-Courage-of-secret-knowledge">
     <img src="https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/static/img/the-courage-of-secret-knowledge-preview.png" alt="Master">
   </a>
-</p>
+</p>0000
 
 <p align="center">"<i>Knowledge is powerful, be careful how you use it!</i>"</p>
 
