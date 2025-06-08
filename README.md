@@ -1056,7 +1056,7 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp; <a href="https://github.com/HolyBugx/HolyTips"><b>HolyTips</b></a> - tips and tutorials on Bug Bounty Hunting and Web App Security.<br>
 &nbsp;&nbsp; <a href="https://github.com/hslatman/awesome-threat-intelligence"><b>awesome-threat-intelligence</b></a> - a curated list of Awesome Threat Intelligence resources.<br>
 &nbsp;&nbsp; <a href="https://github.com/infosecn1nja/Red-Teaming-Toolkit"><b>Red-Teaming-Toolkit</b></a> - a collection of open source and commercial tools that aid in red team operations.<br>
-&nbsp;&nbsp; <a href="https://github.com/snoopysecurity/awesome-burp-extensions"><b>awesome-burp-extensions</b></a> - a curated list of amazingly awesome Burp Extensions.<br>
+&nbsp;&nbsp; <a  href="https://github.com/snoopysecurity/awesome-burp-extensions"><b>awesome-burp-extensions</b></a> - a curated list of amazingly awesome Burp Extensions.<br>
 &nbsp;&nbsp; <a href="https://github.com/Hack-with-Github/Free-Security-eBooks"><b>Free Security eBooks</b></a> - list of a Free Security and Hacking eBooks.<br>
 &nbsp;&nbsp; <a href="https://github.com/yeahhub/Hacking-Security-Ebooks"><b>Hacking-Security-Ebooks</b></a> - top 100 Hacking & Security E-Books.<br>
 &nbsp;&nbsp; <a href="https://github.com/nikitavoloboev/privacy-respecting"><b>privacy-respecting</b></a> - curated list of privacy respecting services and software.<br>
