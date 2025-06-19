@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/trimstray/the-Courage-of-secret-knowledge">
+  <a href="https://github.com/couragexchange/the-Courage-of-secret-knowledge">
     <img src="https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/static/img/the-courage-of-secret-knowledge-preview.png" alt="Master">
   </a>
 </p>0000
