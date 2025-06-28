@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/couragexchange/the-Courage-of-secret-knowledge">
-    <img src="https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/static/img/the-courage-of-secret-knowledge-preview.png" alt="Master">
+    <img src="https://github.com/couragexchange/the-book-of-secret-knowledge/blob/master/static/img/the-courage-of-secret-knowledge-preview.png" alt="Master">
   </a>
 </p>0000
 
@@ -11,7 +11,7 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/trimstray/the-courage-of-secret-knowledge/pulls">
+  <a href="https://github.co/couragexchange/the-courage-of-secret-knowledge/pulls">
     <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?longCache=true" alt="Pull Requests">
   </a>
   <a href="LICENSE.md">
@@ -60,7 +60,7 @@ All **suggestions/PR** are welcome!
 
 This project exists thanks to all the people who contribute.
 
-<a href="https://github.com/trimstray/the-book-of-secret-knowledge/graphs/contributors"><img src="https://opencollective.com/the-book-of-secret-knowledge/contributors.svg?width=890&button=false"></a>
+<a href="https://github.com/couragexchange/the-book-of-secret-knowledge/graphs/contributors"><img src="https://opencollective.com/the-book-of-secret-knowledge/contributors.svg?width=890&button=false"></a>
 
 ### Financial Contributors
 
